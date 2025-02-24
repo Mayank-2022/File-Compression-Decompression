@@ -82,7 +82,7 @@ Follow these steps to set up and run the project:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/huffman-compression.git
+   git clone https://github.com/Mayank-2022/File-Compression-Decompression
    cd huffman-compression
    ```
 
